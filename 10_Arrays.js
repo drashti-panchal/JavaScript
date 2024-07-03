@@ -27,7 +27,7 @@ console.log(arr.indexOf(1))
 const newArray = arr.join()
 console.log(arr)
 console.log(newArray)
-console.log(typeof new Array)
+console.log(typeof newArray)
 
 //Slice and Splice
 //A) Slice - returns a new array and gives one element less from the max value.

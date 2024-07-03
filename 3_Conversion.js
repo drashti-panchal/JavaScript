@@ -15,7 +15,7 @@ let valueInNumber = Number(score)
 let isLoggedIn = "hitesh"
 
 let booleanIsLoggedIn = Boolean(isLoggedIn)
- console.log(booleanIsLoggedIn);
+//  console.log(booleanIsLoggedIn);
 
 // 1 => true; 0 => false
 // "" => false
@@ -46,10 +46,10 @@ let str2 = " Drashti"
 let str3 = str1 + str2
 // console.log(str3);
 
-console.log("1" + 2);
-console.log(1 + "2");
-console.log("1" + 2 + 2);
-console.log(1 + 2 + "2");
+// console.log("1" + 2);
+// console.log(1 + "2");
+// console.log("1" + 2 + 2);
+// console.log(1 + 2 + "2");
 
 // console.log( (3 + 4) * 5 % 3);
 
@@ -62,7 +62,22 @@ num1 = num2 = num3 = 2 + 2
 
 let gameCounter = 100
 ++gameCounter;
-console.log(gameCounter);
+// console.log(gameCounter);
+
+
+//Postfix increment
+let a =100;
+ const b= a++;
+console.log(`a = ${a} b = ${b}`); // a=101 b=100
+
+//Prefix increment
+let c =100;
+const d= ++c;
+console.log(`c = ${c} d = ${d}`); // c=101 d=101
+
+
+
+
 
 
 

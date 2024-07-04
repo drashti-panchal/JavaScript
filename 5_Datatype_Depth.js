@@ -1,6 +1,7 @@
 //Primitive and non primitive data types:-
 
 //Primitive (7 types) => Number, String ,Boolean, Symbol, BigInt, null, undefined
+// Data types are defined on basis how they are stored into the memory.
 
 //Number
 let age=14

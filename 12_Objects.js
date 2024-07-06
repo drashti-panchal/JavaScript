@@ -17,6 +17,17 @@ console.log(details.name)
 //2) Better Option.
 console.log(details["name"]) //Everything can be accessed.
 
+//In case for using Symbols.
+
+const symb = new Symbol("123")
+let details2 ={
+	name:"Drashti",
+	age:20,
+	address:"Mira Road",
+	email: "james@google.com",
+	symb: 123
+}
+
 //Changing the elements.
 details.name = "Parth"
 console.log(details.name)

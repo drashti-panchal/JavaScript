@@ -1,16 +1,18 @@
-let myName ="Drashti"
-console.log(myName)
+
 
 /*
 Types:-
 Number:- Integers. Eg:-1,2,3
 String :- Eg:- "Drashti"
-Symbol:-Unique
-Undefined
-Null
-Object
-boolean:- Trues or False
+Symbol:- Unique identifier. Eg:- Symbol("123")
+Undefined:- Variable without value
+Null:- Variable with value null
+Object:- Key-value pairs. Eg:- {name:"Drashti", age:20}
+boolean:- True or False
 */
+
+let myName ="Drashti"
+console.log(myName)
 
 console.log(typeof undefined)
 console.log(typeof null)

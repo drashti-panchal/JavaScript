@@ -19,7 +19,7 @@ console.log(createdDate.toLocaleString())
 let myTimeStamp = Date.now()
 console.log(myTimeStamp)
 console.log(createdDate.getTime())
-console.log(Math.floor(Date.now()/1000))
+console.log(Math.floor(Date.now()/1000))// converts milliseconds to seconds
 
 let newDate = new Date()
 console.log(newDate.getDate())

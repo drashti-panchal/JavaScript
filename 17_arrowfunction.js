@@ -15,7 +15,7 @@ let details ={
 console.log(details.greeting());
 console.log(this) // in node it gives {} and in browser it gives window functions.
 
-//this is function
+//this in function
 
 //Normal Functions can use this keyword
 function display () {

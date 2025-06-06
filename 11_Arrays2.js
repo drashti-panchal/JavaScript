@@ -34,5 +34,3 @@ let marks2=200
 let marks3=300
 
 console.log(Array.of(marks1,marks2,marks3))
-
-

@@ -1,5 +1,8 @@
 //Stack(Stores Primitive Datatype) 
 //Heap(Stores Non Primitive Datatype)
+//Stack is faster than Heap
+
+
 
 //Stack
 let name="Drashti"
